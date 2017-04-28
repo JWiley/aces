@@ -1,2 +1,1 @@
-# aces
-Activity, Coping, Emotions, Stress &amp; Sleep Study
+# Activity, Coping, Emotions, Stress &amp; Sleep (ACES) Study
