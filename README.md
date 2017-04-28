@@ -16,10 +16,6 @@
 
 ### Participants will be reimbursed up to $60 Coles electronic voucher if completing all assessments
 
-#### To sign up, read and fill out the form below or open the form on a separate page by clicking [here](https://monash.az1.qualtrics.com/jfe/form/SV_bEMdHzS3PAay8kZ).
-
-<iframe src = "https://monash.az1.qualtrics.com/jfe/form/SV_bEMdHzS3PAay8kZ" width="600" height="800">null</iframe>
-
 ## Contact
 
 If you have any questions or would like more information, please get in touch:
@@ -28,3 +24,8 @@ If you have any questions or would like more information, please get in touch:
 * +61 3 9005 7297
 
 *This project has been approved by the Monash University Human Research Ethics Committee: Project #2017-8245.*
+
+#### To sign up, read and fill out the form below or open the form on a separate page by clicking [here](https://monash.az1.qualtrics.com/jfe/form/SV_bEMdHzS3PAay8kZ).
+
+<iframe src = "https://monash.az1.qualtrics.com/jfe/form/SV_bEMdHzS3PAay8kZ" width="600" height="800">null</iframe>
+
