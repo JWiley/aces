@@ -1,6 +1,6 @@
 # Activity, Coping, Emotions, Stress &amp; Sleep (ACES) Study
 
-### This 12-day study examines the relations between everyday hassles, coping, health behaviours and emotions.
+**This 12-day study examines the relations between everyday hassles, coping, health behaviours and emotions.**
 
 ### You are eligible to participate if you: 
 - Are a healthy adult aged 18-40y;
@@ -18,4 +18,4 @@
 
 #### Read more and sign up [here](https://monash.az1.qualtrics.com/jfe/form/SV_bEMdHzS3PAay8kZ) or read and fill out the form below.
 
-<iframe src = "https://monash.az1.qualtrics.com/jfe/form/SV_bEMdHzS3PAay8kZ">If not visible, go to: https://monash.az1.qualtrics.com/jfe/form/SV_bEMdHzS3PAay8kZ</iframe>
+<iframe src = "https://monash.az1.qualtrics.com/jfe/form/SV_bEMdHzS3PAay8kZ" width=600>null</iframe>
